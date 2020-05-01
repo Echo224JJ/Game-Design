@@ -1,2 +1,2 @@
-# Game-Design
-For CMPM and ARTG 120
+# Endless-Runner
+Endless Runner game based on the Matrix
